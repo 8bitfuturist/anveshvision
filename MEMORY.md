@@ -16,7 +16,7 @@ Marketing site for Anveshvision: an agency with two verticals —
   old `sugandhsam.github.io/anveshvision/` URL 301s here). DNS at GoDaddy
   (`ns07/ns08.domaincontrol.com`): 4× GitHub A records, `www` CNAME →
   `sugandhsam.github.io`, Zoho MX ×3 + SPF, `_dmarc` p=none until DKIM is added.
-- **Repo:** github.com/sugandhsam/anveshvision (public, `main`)
+- **Repo:** github.com/8bitfuturist/anveshvision (public, `main`)
 
 ## Invariants
 - **Corporate gifting comes first, DSC second** — in the hero cards, nav, eyebrow
